@@ -1,15 +1,27 @@
 ## Reference
 
+github : https://github.com/hibrahimyucel/NextjsTSql
+
+live : https://mysql.mmbis.com.tr/
+
 [Node.js](https://nodejs.org/)
+
 [Visual Studio Code](https://code.visualstudio.com)
+
 [Next Js](http://nextjs.org/)
+
 [Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
+
 [Clerk](https://clerk.com/docs/quickstarts/nextjs)
+
 [Aiven](https://aiven.io/mysql)
+
 [ngrok](https://ngrok.com/)
+
 [nodemailer](https://nodemailer.com/)
-docs
+
 [e-Mail configuration on Google](https://dev.to/emmanuel_xs/how-to-send-emails-for-free-in-nextjs-using-gmail-and-nodemailer-4i6e)
+
 [Create a responsive navigation bar and use it.](https://medium.com/@hanekcud/how-to-create-responsive-navbar-in-next-js-using-tailwind-css-eed2e7dc925a)
 
 ## Road map
